@@ -34,7 +34,7 @@ O relatório demonstra como diferentes soluções AWS podem transformar ambiente
 
 ### Diagrama Interativo
 Você pode visualizar ou baixar o diagrama interativo da arquitetura AWS no link abaixo:
-* [🔗 Visualizar Diagrama AWS Interativo](https://htmlpreview.github.io/?https://github.com/yagoalt54/relatorio-implementacao-servicos-AWS/blob/main/Diagrama%20AWS%20CASE.drawio.html)
+* [🔗 Visualizar Diagrama AWS Interativo](https://yagoalt54.github.io/relatorio-implementacao-servicos-AWS/Diagrama%20AWS%20CASE.drawio.html)
 
 ---
 
