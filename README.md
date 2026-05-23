@@ -1,6 +1,5 @@
-# relatorio-implementa-o-servi-os-AWS
 
-# 🚀 Relatório de Implementação de Serviços AWS — Abstergo Industries
+#  Relatório de Implementação de Serviços AWS — Abstergo Industries
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
@@ -9,7 +8,7 @@
 
 ---
 
-# 📌 Sobre o Projeto
+#  Sobre o Projeto
 
 Este projeto apresenta um estudo de implementação de serviços da **Amazon Web Services (AWS)** na empresa fictícia **Abstergo Industries**, com foco em:
 
@@ -23,13 +22,19 @@ O relatório demonstra como diferentes soluções AWS podem transformar ambiente
 
 ---
 
-# 🧠 Mapa Mental do Projeto
+#  Mapa Mental do Projeto
 
 > Estrutura geral do relatório e das etapas implementadas.
 
 <p align="center">
   <img src="./NotebookLM Mind Map (1).png" alt="Mapa Mental AWS" width="1000"/>
 </p>
+
+---
+
+### Diagrama Interativo
+Você pode visualizar ou baixar o diagrama interativo da arquitetura AWS no link abaixo:
+* 🔗 [Visualizar Diagrama AWS (HTML)](./Diagrama%20AWS%20CASE.drawio.html)
 
 ---
 
@@ -126,7 +131,6 @@ A empresa passa a utilizar conexão dedicada entre o ambiente on-premises e a AW
 - Figma
 - GitHub
 - Markdown
-- 
 ---
 
 # 👨‍💻 Responsável
@@ -153,3 +157,5 @@ Projeto desenvolvido para fins acadêmicos e demonstração de conhecimentos em 
 
 - Figma Community File  
   https://www.figma.com/community/file/1640120202815186330/aws-services-implementation-report
+
+  
